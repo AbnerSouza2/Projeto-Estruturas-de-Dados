@@ -1,7 +1,7 @@
 # Projeto-Estruturas-de-Dados
 
-========== DESAFIO ==========
-A turma do café:
+#========== DESAFIO ==========
+#A turma do café:
 Uma comunidade é um grupo de pessoas que compartilham interesses
 comuns, valores, identidade cultural, ou que estão conectadas de
 alguma forma. Essa conexão pode ser baseada em diversos fatores,
@@ -14,7 +14,7 @@ Seu programa deve auxiliar esta comunidade no controle dos
 participantes e contribuintes
 
 
-========== Neste código, alguns conceitos importantes foram utilizados: ==========
+#========== Neste código, alguns conceitos importantes foram utilizados: ==========
 1-Estruturas de Dados
 2-Gerenciamento de Memória
 3-Manipulação de Arquivos
