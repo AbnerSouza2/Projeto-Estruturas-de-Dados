@@ -19,8 +19,13 @@ participantes e contribuintes
 ========== Neste código, alguns conceitos importantes foram utilizados: ==========
 
 1-Estruturas de Dados
+
 2-Gerenciamento de Memória
+
 3-Manipulação de Arquivos
+
 4-Estruturas de Controle
+
 5-Manipulação de Strings
+
 6-Ponteiros
